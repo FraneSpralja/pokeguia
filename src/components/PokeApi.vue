@@ -1,6 +1,6 @@
-<template id="#pokeApi">
+<template>
 
-  <div class="">
+  <div class="pokeApi">
     <img src="" alt="">
   </div>
 
@@ -73,5 +73,4 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-
 </style>
